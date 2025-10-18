@@ -65,8 +65,8 @@ Open circuit characteristics
 
 ![WhatsApp Image 2025-10-18 at 13 29 44_ff16735b](https://github.com/user-attachments/assets/91f4e3dd-98a6-446b-af99-913c0bc8525e)
 
-  
 Load Characteristics:
+
  ![WhatsApp Image 2025-10-18 at 13 29 43_5259b08d](https://github.com/user-attachments/assets/4b871eee-07f2-4125-96b1-b343fe7d6c2d)
 
 Result:
